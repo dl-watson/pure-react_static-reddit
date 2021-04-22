@@ -6,7 +6,29 @@ export const Votes = ({ ups }) => {
   const [downvote, setDownvote] = useState(false);
   const [votes, setVotes] = useState(ups);
 
-  const handleUpvote = ({ target }) => {
+  const img = (type, classOne, classTwo = null) => {
+    if (type === 'upvote') {
+      return (
+        <img
+          className={(classOne, classTwo)}
+          src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgur.com%2FF2ae3hB.png&f=1&nofb=1"
+          alt="upvote"
+          onClick={() => handleUpvote()}
+        />
+      );
+    } else if (type == 'downvote') {
+      return (
+        <img
+          className={(classOne, classTwo)}
+          src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ibb.co%2FThJGcGv%2FDownvote.png&f=1&nofb=1"
+          alt="upvote"
+          onClick={() => handleDownvote()}
+        />
+      );
+    }
+  };
+
+  const handleUpvote = () => {
     if (!upvote && downvote) {
       setUpvote(true);
       setDownvote(false);
@@ -21,7 +43,7 @@ export const Votes = ({ ups }) => {
     }
   };
 
-  const handleDownvote = ({ target }) => {
+  const handleDownvote = () => {
     if (!downvote && upvote) {
       setUpvote(false);
       setDownvote(true);
@@ -38,37 +60,13 @@ export const Votes = ({ ups }) => {
 
   return (
     <div className={styles.Votes}>
-      {upvote ? (
-        <img
-          className={(styles.upvote, styles.selected)}
-          src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgur.com%2FF2ae3hB.png&f=1&nofb=1"
-          alt="upvote"
-          onClick={(e) => handleUpvote(e)}
-        />
-      ) : (
-        <img
-          className={styles.upvote}
-          src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgur.com%2FF2ae3hB.png&f=1&nofb=1"
-          alt="upvote"
-          onClick={(e) => handleUpvote(e)}
-        />
-      )}
+      {upvote
+        ? img('upvote', styles.upvote, styles.selected)
+        : img('upvote', styles.upvote)}
       <span>{votes}</span>
-      {downvote ? (
-        <img
-          className={(styles.downvote, styles.selected)}
-          src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ibb.co%2FThJGcGv%2FDownvote.png&f=1&nofb=1"
-          alt="downvote"
-          onClick={(e) => handleDownvote(e)}
-        />
-      ) : (
-        <img
-          className={styles.downvote}
-          src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ibb.co%2FThJGcGv%2FDownvote.png&f=1&nofb=1"
-          alt="downvote"
-          onClick={(e) => handleDownvote(e)}
-        />
-      )}
+      {downvote
+        ? img('downvote', styles.downvote, styles.selected)
+        : img('downvote', styles.downvote)}
     </div>
   );
 };
