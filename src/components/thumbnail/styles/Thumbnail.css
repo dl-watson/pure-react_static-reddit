@@ -1,0 +1,11 @@
+.Thumbnail {
+    display: flex;
+    align-items: center;
+
+    img {
+        height: auto;
+        max-height: 115px;
+        max-width: 100%;
+    }
+}
+

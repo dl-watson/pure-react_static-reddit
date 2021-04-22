@@ -1,0 +1,10 @@
+.Post {
+    display: grid;
+    grid-template-columns: .5fr 1fr 4fr;
+    border: 1px solid black;
+    height: 120px;
+
+    @media only screen and (min-width: 900px) {
+        background-color: red;
+    }
+}

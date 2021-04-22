@@ -1,0 +1,37 @@
+.PostDetails {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin: 8px;
+
+    .top, .middle {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+
+    .middle {
+        margin: 5px;
+    }
+    
+    .domain {
+        align-items: center;
+        font-size: .8em;
+        margin-left: 5px;
+        color: darkgrey;
+    }
+
+    .author {
+        text-decoration: none;
+    }
+
+    .bottom {
+        display: flex;
+        align-items: flex-start;
+        font-size: 0.9em;
+    }
+
+    .bottom > span {
+        margin: 5px;
+    }
+}
