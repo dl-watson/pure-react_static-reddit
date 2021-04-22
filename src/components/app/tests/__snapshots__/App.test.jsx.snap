@@ -11,15 +11,13 @@ exports[`App component renders App 1`] = `
       >
         <img
           alt="upvote"
-          class="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgur.com%2FF2ae3hB.png&f=1&nofb=1"
         />
         <span>
           234
         </span>
         <img
-          alt="downvote"
-          class="downvote"
+          alt="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ibb.co%2FThJGcGv%2FDownvote.png&f=1&nofb=1"
         />
       </div>
@@ -98,15 +96,13 @@ exports[`App component renders App 1`] = `
       >
         <img
           alt="upvote"
-          class="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgur.com%2FF2ae3hB.png&f=1&nofb=1"
         />
         <span>
           98
         </span>
         <img
-          alt="downvote"
-          class="downvote"
+          alt="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ibb.co%2FThJGcGv%2FDownvote.png&f=1&nofb=1"
         />
       </div>
@@ -185,15 +181,13 @@ exports[`App component renders App 1`] = `
       >
         <img
           alt="upvote"
-          class="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgur.com%2FF2ae3hB.png&f=1&nofb=1"
         />
         <span>
           83
         </span>
         <img
-          alt="downvote"
-          class="downvote"
+          alt="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ibb.co%2FThJGcGv%2FDownvote.png&f=1&nofb=1"
         />
       </div>
@@ -272,15 +266,13 @@ exports[`App component renders App 1`] = `
       >
         <img
           alt="upvote"
-          class="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgur.com%2FF2ae3hB.png&f=1&nofb=1"
         />
         <span>
           25
         </span>
         <img
-          alt="downvote"
-          class="downvote"
+          alt="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ibb.co%2FThJGcGv%2FDownvote.png&f=1&nofb=1"
         />
       </div>
@@ -359,15 +351,13 @@ exports[`App component renders App 1`] = `
       >
         <img
           alt="upvote"
-          class="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgur.com%2FF2ae3hB.png&f=1&nofb=1"
         />
         <span>
           21
         </span>
         <img
-          alt="downvote"
-          class="downvote"
+          alt="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ibb.co%2FThJGcGv%2FDownvote.png&f=1&nofb=1"
         />
       </div>
@@ -446,15 +436,13 @@ exports[`App component renders App 1`] = `
       >
         <img
           alt="upvote"
-          class="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgur.com%2FF2ae3hB.png&f=1&nofb=1"
         />
         <span>
           17
         </span>
         <img
-          alt="downvote"
-          class="downvote"
+          alt="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ibb.co%2FThJGcGv%2FDownvote.png&f=1&nofb=1"
         />
       </div>
@@ -533,15 +521,13 @@ exports[`App component renders App 1`] = `
       >
         <img
           alt="upvote"
-          class="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgur.com%2FF2ae3hB.png&f=1&nofb=1"
         />
         <span>
           14
         </span>
         <img
-          alt="downvote"
-          class="downvote"
+          alt="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ibb.co%2FThJGcGv%2FDownvote.png&f=1&nofb=1"
         />
       </div>
@@ -620,15 +606,13 @@ exports[`App component renders App 1`] = `
       >
         <img
           alt="upvote"
-          class="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgur.com%2FF2ae3hB.png&f=1&nofb=1"
         />
         <span>
           7
         </span>
         <img
-          alt="downvote"
-          class="downvote"
+          alt="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ibb.co%2FThJGcGv%2FDownvote.png&f=1&nofb=1"
         />
       </div>
@@ -707,15 +691,13 @@ exports[`App component renders App 1`] = `
       >
         <img
           alt="upvote"
-          class="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgur.com%2FF2ae3hB.png&f=1&nofb=1"
         />
         <span>
           6
         </span>
         <img
-          alt="downvote"
-          class="downvote"
+          alt="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ibb.co%2FThJGcGv%2FDownvote.png&f=1&nofb=1"
         />
       </div>
@@ -794,15 +776,13 @@ exports[`App component renders App 1`] = `
       >
         <img
           alt="upvote"
-          class="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgur.com%2FF2ae3hB.png&f=1&nofb=1"
         />
         <span>
           6
         </span>
         <img
-          alt="downvote"
-          class="downvote"
+          alt="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ibb.co%2FThJGcGv%2FDownvote.png&f=1&nofb=1"
         />
       </div>
@@ -881,15 +861,13 @@ exports[`App component renders App 1`] = `
       >
         <img
           alt="upvote"
-          class="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgur.com%2FF2ae3hB.png&f=1&nofb=1"
         />
         <span>
           6
         </span>
         <img
-          alt="downvote"
-          class="downvote"
+          alt="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ibb.co%2FThJGcGv%2FDownvote.png&f=1&nofb=1"
         />
       </div>
@@ -968,15 +946,13 @@ exports[`App component renders App 1`] = `
       >
         <img
           alt="upvote"
-          class="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgur.com%2FF2ae3hB.png&f=1&nofb=1"
         />
         <span>
           3
         </span>
         <img
-          alt="downvote"
-          class="downvote"
+          alt="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ibb.co%2FThJGcGv%2FDownvote.png&f=1&nofb=1"
         />
       </div>
@@ -1055,15 +1031,13 @@ exports[`App component renders App 1`] = `
       >
         <img
           alt="upvote"
-          class="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgur.com%2FF2ae3hB.png&f=1&nofb=1"
         />
         <span>
           2
         </span>
         <img
-          alt="downvote"
-          class="downvote"
+          alt="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ibb.co%2FThJGcGv%2FDownvote.png&f=1&nofb=1"
         />
       </div>
@@ -1142,15 +1116,13 @@ exports[`App component renders App 1`] = `
       >
         <img
           alt="upvote"
-          class="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgur.com%2FF2ae3hB.png&f=1&nofb=1"
         />
         <span>
           1
         </span>
         <img
-          alt="downvote"
-          class="downvote"
+          alt="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ibb.co%2FThJGcGv%2FDownvote.png&f=1&nofb=1"
         />
       </div>
@@ -1229,15 +1201,13 @@ exports[`App component renders App 1`] = `
       >
         <img
           alt="upvote"
-          class="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgur.com%2FF2ae3hB.png&f=1&nofb=1"
         />
         <span>
           1
         </span>
         <img
-          alt="downvote"
-          class="downvote"
+          alt="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ibb.co%2FThJGcGv%2FDownvote.png&f=1&nofb=1"
         />
       </div>
@@ -1316,15 +1286,13 @@ exports[`App component renders App 1`] = `
       >
         <img
           alt="upvote"
-          class="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgur.com%2FF2ae3hB.png&f=1&nofb=1"
         />
         <span>
           1
         </span>
         <img
-          alt="downvote"
-          class="downvote"
+          alt="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ibb.co%2FThJGcGv%2FDownvote.png&f=1&nofb=1"
         />
       </div>
@@ -1403,15 +1371,13 @@ exports[`App component renders App 1`] = `
       >
         <img
           alt="upvote"
-          class="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgur.com%2FF2ae3hB.png&f=1&nofb=1"
         />
         <span>
           1
         </span>
         <img
-          alt="downvote"
-          class="downvote"
+          alt="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ibb.co%2FThJGcGv%2FDownvote.png&f=1&nofb=1"
         />
       </div>
@@ -1490,15 +1456,13 @@ exports[`App component renders App 1`] = `
       >
         <img
           alt="upvote"
-          class="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgur.com%2FF2ae3hB.png&f=1&nofb=1"
         />
         <span>
           1
         </span>
         <img
-          alt="downvote"
-          class="downvote"
+          alt="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ibb.co%2FThJGcGv%2FDownvote.png&f=1&nofb=1"
         />
       </div>
@@ -1577,15 +1541,13 @@ exports[`App component renders App 1`] = `
       >
         <img
           alt="upvote"
-          class="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgur.com%2FF2ae3hB.png&f=1&nofb=1"
         />
         <span>
           1
         </span>
         <img
-          alt="downvote"
-          class="downvote"
+          alt="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ibb.co%2FThJGcGv%2FDownvote.png&f=1&nofb=1"
         />
       </div>
@@ -1664,15 +1626,13 @@ exports[`App component renders App 1`] = `
       >
         <img
           alt="upvote"
-          class="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgur.com%2FF2ae3hB.png&f=1&nofb=1"
         />
         <span>
           1
         </span>
         <img
-          alt="downvote"
-          class="downvote"
+          alt="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ibb.co%2FThJGcGv%2FDownvote.png&f=1&nofb=1"
         />
       </div>
@@ -1751,15 +1711,13 @@ exports[`App component renders App 1`] = `
       >
         <img
           alt="upvote"
-          class="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgur.com%2FF2ae3hB.png&f=1&nofb=1"
         />
         <span>
           1
         </span>
         <img
-          alt="downvote"
-          class="downvote"
+          alt="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ibb.co%2FThJGcGv%2FDownvote.png&f=1&nofb=1"
         />
       </div>
@@ -1838,15 +1796,13 @@ exports[`App component renders App 1`] = `
       >
         <img
           alt="upvote"
-          class="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgur.com%2FF2ae3hB.png&f=1&nofb=1"
         />
         <span>
           1
         </span>
         <img
-          alt="downvote"
-          class="downvote"
+          alt="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ibb.co%2FThJGcGv%2FDownvote.png&f=1&nofb=1"
         />
       </div>
@@ -1925,15 +1881,13 @@ exports[`App component renders App 1`] = `
       >
         <img
           alt="upvote"
-          class="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgur.com%2FF2ae3hB.png&f=1&nofb=1"
         />
         <span>
           1
         </span>
         <img
-          alt="downvote"
-          class="downvote"
+          alt="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ibb.co%2FThJGcGv%2FDownvote.png&f=1&nofb=1"
         />
       </div>
@@ -2012,15 +1966,13 @@ exports[`App component renders App 1`] = `
       >
         <img
           alt="upvote"
-          class="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgur.com%2FF2ae3hB.png&f=1&nofb=1"
         />
         <span>
           1
         </span>
         <img
-          alt="downvote"
-          class="downvote"
+          alt="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ibb.co%2FThJGcGv%2FDownvote.png&f=1&nofb=1"
         />
       </div>
@@ -2099,15 +2051,13 @@ exports[`App component renders App 1`] = `
       >
         <img
           alt="upvote"
-          class="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgur.com%2FF2ae3hB.png&f=1&nofb=1"
         />
         <span>
           1
         </span>
         <img
-          alt="downvote"
-          class="downvote"
+          alt="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ibb.co%2FThJGcGv%2FDownvote.png&f=1&nofb=1"
         />
       </div>
@@ -2186,15 +2136,13 @@ exports[`App component renders App 1`] = `
       >
         <img
           alt="upvote"
-          class="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgur.com%2FF2ae3hB.png&f=1&nofb=1"
         />
         <span>
           1
         </span>
         <img
-          alt="downvote"
-          class="downvote"
+          alt="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ibb.co%2FThJGcGv%2FDownvote.png&f=1&nofb=1"
         />
       </div>
@@ -2273,15 +2221,13 @@ exports[`App component renders App 1`] = `
       >
         <img
           alt="upvote"
-          class="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgur.com%2FF2ae3hB.png&f=1&nofb=1"
         />
         <span>
           0
         </span>
         <img
-          alt="downvote"
-          class="downvote"
+          alt="upvote"
           src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ibb.co%2FThJGcGv%2FDownvote.png&f=1&nofb=1"
         />
       </div>
